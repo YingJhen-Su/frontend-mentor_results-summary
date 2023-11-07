@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-using-jquery-and-ajax-_7sA-9gjiF](https://www.frontendmentor.io/solutions/results-summary-component-using-jquery-and-ajax-_7sA-9gjiF)
 - Live Site URL: [https://yingjhen-su.github.io/frontend-mentor_results-summary/](https://yingjhen-su.github.io/frontend-mentor_results-summary/)
 
 ## My process
